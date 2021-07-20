@@ -1,2 +1,2 @@
 # GF-Patterns-For-Dangerous-PHP-Functions
-GF Patterns For Greping High-Risk PHP Functions
+*gf patterns for greping high-risk php functions*
